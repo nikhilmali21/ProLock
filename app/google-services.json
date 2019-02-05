@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "683113268292",
+    "firebase_url": "https://prolock-83f6f.firebaseio.com",
+    "project_id": "prolock-83f6f",
+    "storage_bucket": "prolock-83f6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683113268292:android:c5ca65382f7d46ea",
+        "android_client_info": {
+          "package_name": "nikhil.prolock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683113268292-iol2al9pqvgec25crmg4h972s3skremp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nikhil.prolock",
+            "certificate_hash": "4ebd8310cd6641e3a65c6c0141f14379eee84f49"
+          }
+        },
+        {
+          "client_id": "683113268292-hrv64gvj0991p1tghsqqfhdbahigsfe0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw2OwCAEoMi6QL0D7jv2UdF6gKJgEEBeQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683113268292-hrv64gvj0991p1tghsqqfhdbahigsfe0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

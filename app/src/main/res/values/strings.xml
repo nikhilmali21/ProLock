@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ProLock</string>
+    <string name="banner_ad_unit_id">ca-app-pub-9169779934207622/4863866603</string>
+    <string name="device_admin_explanation">For experimentation purposes only</string>
+    <string name="rate_app">Rate App</string>
+    <string name="share_app">Share App</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="touch_to_activate">TOUCH TO ACTIVATE</string>
+</resources>

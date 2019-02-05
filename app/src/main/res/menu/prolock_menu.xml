@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/shareapp"
+        android:title="@string/share_app"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_003_connector"/>
+
+    <item android:id="@+id/rateapp"
+        android:title="@string/rate_app"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/ic_006_rate"/>
+
+    <item android:id="@+id/privacypolicy"
+        android:title="@string/privacy_policy"
+        app:showAsAction="collapseActionView" />
+
+
+</menu>
